@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1545877506 source:c:\users\fruty\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"main.h"
+
+1545903703 c:\users\fruty\desktop\project\main.h
+
+1545877506 source:d:\to github\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"main.h"
+
+1545903703 d:\to github\phonebook\main.h
+
